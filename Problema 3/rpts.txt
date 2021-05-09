@@ -1,0 +1,64 @@
+
+0101
+TITULO
+Ciências da Saúde
+AUTOR
+COAUTOR
+ORIENTADOR
+INEXISTENTE
+0102
+TITULO
+Ciências da Saúde
+AUTOR
+INEXISTENTE
+ORIENTADOR
+INEXISTENTE
+0201
+TITULO
+Ciências Exatas
+UTOR
+INEXISTENTE
+ORIENTADOR
+INEXISTENTE
+0701
+TITUTLO
+Liguística, Letras e Artes
+AUTOR
+INEXISTENTE
+ORIENTADOR
+INEXISTENTE
+0301
+TOTITLO[
+Ciências Agrárias
+AUTOR
+INEXISTENTE
+asdasd
+INEXISTENTE
+0601
+asdasdasdasd
+Ciências Humanas
+asdasdasdasd
+INEXISTENTE
+asdasdasdasd
+INEXISTENTE
+0501
+asdasdasdasd
+Ciências Sociais Aplicadas
+adasdasdasd
+INEXISTENTE
+adasdasdasdd
+INEXISTENTE
+0502
+adasdasdasdasd
+Ciências Sociais Aplicadas
+asdasdasdasdasd
+INEXISTENTE
+asdasdasdasdasd
+INEXISTENTE
+0701
+adadasdasdasd
+Liguística, Letras e Artes
+asdadasdasdasd
+INEXISTENTE
+adasdasdasdasd
+INEXISTENTE
